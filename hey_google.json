@@ -1,6 +1,8 @@
 {
     "type": "micro",
     "wake_word": "hey google",
+    "author": "Lygris",
+    "website": "https://github.com/lygris",
     "model": "hey_google.tflite",
     "trained_languages": ["en"],
     "version": 2,
