@@ -1,13 +1,13 @@
 {
     "type": "micro",
-    "wake_word": "hey google",
+    "wake_word": "Hey Google",
     "author": "Lygris",
     "website": "https://github.com/lygris",
     "model": "hey_google.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
-      "probability_cutoff": 0.95,
+      "probability_cutoff": 0.51,
       "feature_step_size": 10,
       "sliding_window_size": 5,
       "tensor_arena_size": 37000,
