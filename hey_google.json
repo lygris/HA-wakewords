@@ -5,7 +5,7 @@
     "website": "https://github.com/lygris",
     "model": "hey_google.tflite",
     "trained_languages": ["en"],
-    "version": 3,
+    "version": 2,
     "micro": {
       "probability_cutoff": 0.861,
       "feature_step_size": 10,
